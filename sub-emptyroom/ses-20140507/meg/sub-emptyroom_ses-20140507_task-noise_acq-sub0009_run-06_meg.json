@@ -1,0 +1,15 @@
+{
+    "TaskDescription": "My task",
+    "TaskName": "noise",
+    "Manufacturer": "CTF",
+    "SamplingFrequency": 2400,
+    "PowerLineFrequency": 60,
+    "DewarPosition": "Upright",
+    "DigitizedLandmarks": false,
+    "DigitizedHeadPoints": false,
+    "SoftwareFilters": {
+        "SpatialCompensation": {
+            "GradientOrder": 3
+        }
+    }
+}
