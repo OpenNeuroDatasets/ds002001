@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/9f/kW/MD5E-s252--9f3752a9fa9297648afc729ab8312d28.cls/MD5E-s252--9f3752a9fa9297648afc729ab8312d28.cls

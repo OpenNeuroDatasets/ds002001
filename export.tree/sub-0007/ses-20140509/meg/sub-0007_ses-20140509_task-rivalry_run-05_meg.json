@@ -1,0 +1,15 @@
+{
+    "TaskDescription": "My task",
+    "TaskName": "rivalry",
+    "Manufacturer": "CTF",
+    "SamplingFrequency": 2400,
+    "PowerLineFrequency": 60,
+    "DewarPosition": "Upright",
+    "DigitizedLandmarks": true,
+    "DigitizedHeadPoints": true,
+    "SoftwareFilters": {
+        "SpatialCompensation": {
+            "GradientOrder": 3
+        }
+    }
+}
