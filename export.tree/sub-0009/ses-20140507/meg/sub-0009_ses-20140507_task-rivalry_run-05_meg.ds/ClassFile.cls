@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/WP/8Q/MD5E-s252--cdc1947720e43aaaf8f919cf675b20ab.cls/MD5E-s252--cdc1947720e43aaaf8f919cf675b20ab.cls
